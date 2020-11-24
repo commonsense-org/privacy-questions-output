@@ -1,8 +1,3 @@
-
-> privacy-questions@0.0.1 list /home/girard/Documents/privacy-questions
-> node test/list "full"
-
-
 ## 1: Transparency
 
 ### 1.1: Policy Version
