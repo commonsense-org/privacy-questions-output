@@ -1,8 +1,3 @@
-
-> privacy-questions@0.0.1 list /home/girard/Documents/privacy-questions
-> node test/list "spr"
-
-
 ## Triage
 
 ### 0.1: Assessment
