@@ -1,8 +1,3 @@
-
-> privacy-questions@0.0.1 list /home/girard/Documents/privacy-questions
-> node test/list "statutes"
-
-
 ## California Online Privacy Protection Act (CalOPPA)
   * 1.1.1: Effective Date (BASIC): Do the policies clearly indicate the version or effective date of the policies?
   * 1.2.1: Change Notice: Do the policies clearly indicate whether or not a user is notified if there are any material changes to the policies?
